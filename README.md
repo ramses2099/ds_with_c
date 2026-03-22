@@ -2,7 +2,9 @@
 Data Structure with c
 ### program struct of folder for c
 ```diagram
-```diagram
+```
+```
+```
 src -> source 
   -> main.c, point.h, point.c
 build -> compile program
